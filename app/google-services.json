@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "97159928709",
+    "firebase_url": "https://sharadha-complaints.firebaseio.com",
+    "project_id": "sharadha-complaints",
+    "storage_bucket": "sharadha-complaints.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97159928709:android:65856d99ad45b857",
+        "android_client_info": {
+          "package_name": "com.bhavani.divya.sharadhacomplaints"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97159928709-pi2ve0ejo102r7f6a70v5njo2vc37men.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh0ENRA3Jv8d9TO3O1y5APtdKRWybfpmA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
